@@ -5,7 +5,7 @@ Santa Claus also has a list of reindeer able to help him to deliver the gifts. E
 
 Your task is to implement a function `distributeGifts(packOfGifts, reindeers)` that receives a gifts pack and a list of reindeer and returns the maximum number of gifts packs that Santa Claus can deliver. **You can't split gifts packs.**
 
-```javascript
+```js
 const packOfGifts = ["book", "doll", "ball"]
 const reindeers = ["dasher", "dancer"]
 
@@ -26,7 +26,7 @@ Santa Claus también tiene una lista de renos que pueden ayudarlo a entregar los
 
 Tu tarea es implementar una función `distributeGifts(packOfGifts, reindeers)` que recibe una caja de regalos y una lista de renos y devuelve el número máximo de cajas de estos regalos que Santa Claus puede entregar a los niños. **Las cajas de regalos no se pueden dividir.**
 
-```javascript
+```js
 const packOfGifts = ["book", "doll", "ball"]
 const reindeers = ["dasher", "dancer"]
 

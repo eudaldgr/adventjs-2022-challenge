@@ -7,7 +7,7 @@ Since it is office work, their working hours are `from Monday to Friday.` So you
 
 Given a year and an array with the dates of the holidays, return the number of extra hours that would be done during that year:
 
-```javascript
+```js
 const year = 2022
 const holidays = ['01/06', '04/01', '12/25'] // format MM/DD
 
@@ -33,7 +33,7 @@ Al ser trabajo de oficina, su horario laboral es **de lunes a viernes**. Así qu
 
 Dado un año y un array con las fechas de los días festivos, devuelve el número de horas extra que se harían ese año:
 
-```javascript
+```js
 const year = 2022
 const holidays = ['01/06', '04/01', '12/25'] // formato MM/DD
 
