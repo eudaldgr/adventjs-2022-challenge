@@ -1,4 +1,4 @@
-# Challenge 2 (en)
+# Challenge 02 (en)
 A millionaire bought a social network, and he doesn't bring good news. He has announced that **each time an employee misses a working day due to a holiday**, they will have to compensate it with **two extra hours another working day of the same year**.
 
 Obviously the people who work in the company have not made the slightest joke and are **preparing a program that tells them the number of extra hours they would do** in the year if the new rule were applied.
@@ -24,7 +24,7 @@ Things to keep in mind:
 - Although the holiday is December 31, the extra hours will be done the same year.
 - `Date.getDay()` method returns the day of the week of a date. 0 is Sunday, 1 is Monday, etc.
 
-# Challenge 2 (es)
+# Challenge 02 (es)
 Un millonario ha comprado una red social y no trae buenas noticias. Ha anunciado que **cada vez que una jornada de trabajo se pierde por un día festivo**, habrá que compensarlo con **dos horas extra otro día de ese mismo año**.
 
 Obviamente la gente que trabaja en la empresa no le ha hecho ni pizca de gracia y están **preparando un programa que les diga el número de horas extras que harían** en el año si se aplicara la nueva norma.
